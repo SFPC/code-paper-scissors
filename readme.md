@@ -16,41 +16,61 @@
 - Robby Kraft
 - Pam Liou
 
+# Outline
+
+*How does our understanding of technology change when abstractions become tangible? In this course, paper acts as a bridge between code, mathematics, and our human sensory experience of the world.*
+
+Course objectives:
+
+- learn how folding can be used to augment or replace traditional engineering methods
+- foundational methods in kirigami and pop-ups
+- contemporary origami design from uniaxial bases to software based computational flat-foldability
+- an introduction to silkscreened electronics
+- an introduction to prototyping methods, manufacturing, code-based modeling and testing strategies, how to: graphic design for 3-D forms
+
+
 # Classes
 
 ## Introduction
 
 *Robby, Kelli, Coralie, and Taeyoon Choi*
 
-> Feb 4
+In this introduction, Taeyoon will introduce the class, give context for SFPC’s mission and history, and discuss logistics  Three of the Code-Paper-Scissors instructors will introduce themselves, their work, and the ground they will cover:
 
-Taeyoon will welcome everyone to SFPC. Three Code-Paper-Scissors instructors will introduce the three main tracks:
 - Robby: origami, math history, software
 - Coralie: paper electronics
 - Kelli: function from structure
 
-We'll spend time getting to know our fellow students, the space, tools, and finish the evening with our first origami activity and an introduction to crease patterns.
+We'll spend time getting to know our fellow students, the space, the plotter, the tools, and the wall of cut/fold pattern dielines and templates. We will finish the evening with our first origami activity and an introduction to crease patterns.
 
-
-## Foundation Skill-Building: Paper Engineering
+## Paper as an Interface on the world, Paper Gadgets
 
 *Kelli*
 
-> Feb 5, 13
+When tech is made physical it becomes radically accessible. In this class, we will discuss a multitude of wants that paper can make difficult abstractions tangible and help us observe the delicate physical forces of the world around us.
 
 
-## Pop-up Mechanisms
+## The Fundamentals of Pop-ups
 
-*Simon Arizpe*
+*Simon*
 
-> Feb 6
+In this hands-on workshop, students will learn the essential structures of paper engineering and pop-ups by creating their own textbooks. They will then apply what they have learned towards designing and building their own pop-ups.  During this section, students will be familiarized with the tools and techniques used in the field by building examples of mechanisms for themselves while gaining a basic understanding of pop-up book design. 
 
+## Paper Electronics 1
+
+*Coralie, Pam*
+
+In this workshop, we will use paper electronics to rebuild common components with paper. We will first explore paper circuits, make a light turn on and off, and then make a radial potentiometer. At the end of the class, we will learn how speakers work and make a fully-functional paper speaker. How can we incorporate structure to bend, extend, or alter these projects’ functionality?
+
+## Paper Electronics 2
+
+*Coralie*
+
+In this class, we will rethink gestures to interact with paper interfaces and construct a paper synthesizer. We will start with reimagine what a graphic-based interface can be and what kinds of interaction does it offer? (Does it isolating notes? Will it allow for sliding sounds? Or randomness? Or for chords to be played?)  How does structure dictate how the instrument must be played?
 
 ## Origami Design 1: Flat-foldability and uniaxial bases
 
 *Robby*
-
-> Feb 7
 
 [syllabus](https://paper.dropbox.com/doc/Origami-Design-1--AWnpyO25FCHwsHAJjaT94rbkAQ-8igCiI3wEzS3887lUpEiA)
 
@@ -68,17 +88,9 @@ Sources:
 - [Erik Demaine, Joseph O'Rourke - Geometric Folding Algorithms](https://www.amazon.com/Geometric-Folding-Algorithms-Linkages-Polyhedra/dp/0521857570)
 
 
-## Paper Electronics
-*Coralie Gourguechon, Pam Liou*
-
-> Feb 8, 12
-
-
 ## Origami Design 2: tessellations, rigid folding, software
 
 *Robby*
-
-> Feb 11
 
 This class will be covered in three parts. The first section is all about the hard parts of origami, beginning with what might be the frontiers of origami: curved creases and crumpling. We'll discuss what makes this hard and and why there are unsolved problems. Discuss what *is* easily solvable leads us into origami software and we'll take a look under the hood of Rabbit Ear. Again, we'll look at some difficult problems in origami software and what makes them hard. We'll end this section with a demonstration of how to create a crease pattern in code and render it in Origami Simulator.
 
@@ -91,11 +103,6 @@ Sources:
 - [Robert Lang - Twists, Tilings, and Tessellations](https://www.amazon.com/Twists-Tilings-Tessellations-Mathematical-Geometric/dp/1568812329/)
 - [Tachi, Demaine - Origamizier Algorithm](https://pdfs.semanticscholar.org/758b/3b9cea1b8391a73ff68846011c7f480fe7a0.pdf)
 
-## Designing for the grain of things
-
-*Kelli*
-
-> Feb 14
 
 ---
 
