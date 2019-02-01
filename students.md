@@ -63,5 +63,6 @@ Emily is an artist, programmer, and dancer based in Brooklyn. She is particularl
 Rona Akbari is an Afghan-American artist, writer, and producer. Her interests include zines, comedy, and curating playlists.
 
 ### Katrin
+Hi! My name is Katrin. I am an information designer working in New York City. Originally from Austria, I studied visual communications at Die Angewandte in Vienna and KADK in Copenhagen. 
 
-Katrin designs data visualizations and user experiences. She studied visual communication in Vienna and Copenhagen. She interned for Micheal Bierut at Pentagram, Scholz and Friends in Berlin and Ogilvy in Frankfurt. Her focus is on design activism and how information design can solve problems, ask questions and take on issues in a broad social context. 
+Whenever possible, I take my work off-screen and collaborate with others across disciplines. My interest in the social impact of design and technology has inspired work like the NYCxDesign panel Telling Women’s story with Data, Graphic design for the Real World, a paper in Artifact Journal, and the Manhattan Treemap for NYC Open Data Week. 
