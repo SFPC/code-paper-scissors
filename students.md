@@ -16,7 +16,7 @@ Katherine Yaksich is a designer who prefers working with her hands but loves the
 
 ### Léonard
 
-Léonard Roussel is an acoustic and audiovisual engineer with the firm Arup in New York City, and sound designer. His engineering research studies the behavior of sound in architectural spaces and urban environments. His creative practice explores the relationship between humans and volume of physical space, using generative and spatial audio technologies.
+Hi I'm Léo (full name Léonard Roussel, moved here from Europe in 2016). I am an acoustic and audiovisual engineer with the firm Arup in New York City (open invitation to come check our SoundLab in FiDi by the way), and sound designer. At Arup I study the behavior of sound in architectural spaces and urban environments, and design solutions to optimize the auditory experience in these environments. I also collaborate on multimedia art installations (usually involving 3D sound) and would love for the art stuff I do to rely less on pure software and involve more tangible elements.
 
 ### Miwa
 
