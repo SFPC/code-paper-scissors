@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewBox="0 0 500 500">
+<g id="grid">
+	<line stroke="#C0C0C0" stroke-width="0.5" stroke-miterlimit="10" x1="0" y1="400" x2="500" y2="400"/>
+	<line stroke="#C0C0C0" stroke-width="0.5" stroke-miterlimit="10" x1="0" y1="350" x2="500" y2="350"/>
+	<line stroke="#C0C0C0" stroke-width="0.5" stroke-miterlimit="10" x1="0" y1="300" x2="500" y2="300"/>
+	<line stroke="#C0C0C0" stroke-width="0.5" stroke-miterlimit="10" x1="0" y1="200" x2="500" y2="200"/>
+	<line stroke="#C0C0C0" stroke-width="0.5" stroke-miterlimit="10" x1="0" y1="150" x2="500" y2="150"/>
+	<line stroke="#C0C0C0" stroke-width="0.5" stroke-miterlimit="10" x1="0" y1="100" x2="500" y2="100"/>
+	<line stroke="#C0C0C0" stroke-width="0.5" stroke-miterlimit="10" x1="100" y1="0" x2="100" y2="500"/>
+	<line stroke="#C0C0C0" stroke-width="0.5" stroke-miterlimit="10" x1="150" y1="0" x2="150" y2="500"/>
+	<line stroke="#C0C0C0" stroke-width="0.5" stroke-miterlimit="10" x1="200" y1="0" x2="200" y2="500"/>
+	<line stroke="#C0C0C0" stroke-width="0.5" stroke-miterlimit="10" x1="300" y1="0" x2="300" y2="500"/>
+	<line stroke="#C0C0C0" stroke-width="0.5" stroke-miterlimit="10" x1="350" y1="0" x2="350" y2="500"/>
+	<line stroke="#C0C0C0" stroke-width="0.5" stroke-miterlimit="10" x1="400" y1="0" x2="400" y2="500"/>
+</g>
+<g id="creases">
+	<line stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-dasharray="2,4" x1="300" y1="200" x2="350" y2="100"/>
+	<line stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-dasharray="2,4" x1="400" y1="150" x2="300" y2="200"/>
+	<line stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-dasharray="2,4" x1="200" y1="200" x2="150" y2="100"/>
+	<line stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-dasharray="2,4" x1="100" y1="150" x2="200" y2="200"/>
+	<line stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-dasharray="2,4" x1="200" y1="300" x2="100" y2="350"/>
+	<line stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-dasharray="2,4" x1="150" y1="400" x2="200" y2="300"/>
+	<line stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-dasharray="2,4" x1="300" y1="300" x2="350" y2="400"/>
+	<line stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-dasharray="2,4" x1="400" y1="350" x2="300" y2="300"/>
+	<line stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-dasharray="2,4" x1="350" y1="400" x2="400" y2="350"/>
+	<line stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-dasharray="2,4" x1="350" y1="100" x2="400" y2="150"/>
+	<line stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-dasharray="2,4" x1="100" y1="150" x2="150" y2="100"/>
+	<line stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-dasharray="2,4" x1="100" y1="350" x2="150" y2="400"/>
+	<line stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-dasharray="2,4" x1="350" y1="0" x2="350" y2="100"/>
+	<line stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-dasharray="2,4" x1="500" y1="150" x2="400" y2="150"/>
+	<line stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-dasharray="2,4" x1="500" y1="350" x2="400" y2="350"/>
+	<line stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-dasharray="2,4" x1="350" y1="400" x2="350" y2="500"/>
+	<line stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-dasharray="2,4" x1="150" y1="400" x2="150" y2="500"/>
+	<line stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-dasharray="2,4" x1="100" y1="350" x2="0" y2="350"/>
+	<line stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-dasharray="2,4" x1="100" y1="150" x2="0" y2="150"/>
+	<line stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-dasharray="2,4" x1="150" y1="100" x2="150" y2="0"/>
+	<line stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-dasharray="2,4" x1="200" y1="100" x2="300" y2="100"/>
+	<line stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-dasharray="2,4" x1="400" y1="200" x2="400" y2="300"/>
+	<line stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-dasharray="2,4" x1="200" y1="400" x2="300" y2="400"/>
+	<line stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-dasharray="2,4" x1="100" y1="300" x2="100" y2="200"/>
+	<line stroke="#000000" stroke-width="4" stroke-linecap="round" x1="200" y1="0" x2="200" y2="500"/>
+	<line stroke="#000000" stroke-width="4" stroke-linecap="round" x1="300" y1="0" x2="300" y2="500"/>
+	<line stroke="#000000" stroke-width="4" stroke-linecap="round" x1="500" y1="300" x2="0" y2="300"/>
+	<line stroke="#000000" stroke-width="4" stroke-linecap="round" x1="0" y1="200" x2="500" y2="200"/>
+	<line stroke="#000000" stroke-width="4" stroke-linecap="round" x1="400" y1="150" x2="400" y2="200"/>
+	<line stroke="#000000" stroke-width="4" stroke-linecap="round" x1="400" y1="300" x2="400" y2="350"/>
+	<line stroke="#000000" stroke-width="4" stroke-linecap="round" x1="300" y1="400" x2="350" y2="400"/>
+	<line stroke="#000000" stroke-width="4" stroke-linecap="round" x1="200" y1="400" x2="150" y2="400"/>
+	<line stroke="#000000" stroke-width="4" stroke-linecap="round" x1="100" y1="350" x2="100" y2="300"/>
+	<line stroke="#000000" stroke-width="4" stroke-linecap="round" x1="100" y1="200" x2="100" y2="150"/>
+	<line stroke="#000000" stroke-width="4" stroke-linecap="round" x1="150" y1="100" x2="200" y2="100"/>
+	<line stroke="#000000" stroke-width="4" stroke-linecap="round" x1="300" y1="100" x2="350" y2="100"/>
+</g>
+<g id="boundary">
+	<rect fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" width="500" height="500"/>
+</g>
+</svg>
