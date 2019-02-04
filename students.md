@@ -65,4 +65,4 @@ Rona Akbari is an Afghan-American artist, writer, and producer. Her interests in
 ### Katrin
 Hi! My name is Katrin. I am an information designer working in New York City. Originally from Austria, I studied visual communications at Die Angewandte in Vienna and KADK in Copenhagen. 
 
-Whenever possible, I take my work off-screen and collaborate with others across disciplines. My interest in the social impact of design and technology has inspired work like the NYCxDesign panel Telling Women’s story with Data, Graphic design for the Real World, a paper in Artifact Journal, and the Manhattan Treemap for NYC Open Data Week. 
+Whenever possible, I take my work off-screen and collaborate with others across disciplines. My interest in the social impact of design and technology has inspired work like the NYCxDesign panel "Telling Women’s Stories with Data", "Graphic design for the Real World", a paper in Artifact Journal, and the "Manhattan Treemap" for NYC Open Data Week. 
