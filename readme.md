@@ -33,7 +33,7 @@ Course objectives:
 
 # Classes
 
-## **Monday, Feb. 4** • Class 1: Introduction
+## Monday, Feb. 4 • Class 1: Introduction
 
 *Robby, Kelli, Coralie, and Taeyoon Choi*
 
@@ -49,7 +49,7 @@ In this introduction, Taeyoon will introduce the class, give context for SFPC’
 
 We'll spend time getting to know our fellow students, the space, the plotter, the tools, and the wall of cut/fold pattern dielines and templates. We will finish the evening with our first origami activity and an introduction to crease patterns.
 
-## **Tuesday, Feb. 5** • Class 2: Origami Design 1 (Robby)
+## Tuesday, Feb. 5 • Class 2: Origami Design 1 (Robby)
 
 [syllabus](https://paper.dropbox.com/doc/Origami-Design-1--AWnpyO25FCHwsHAJjaT94rbkAQ-8igCiI3wEzS3887lUpEiA)
 
@@ -70,22 +70,30 @@ Sources:
 
 **Homework**: short Kenya Hara reading and “Kill Math”
 
-## **Wednesday, Feb. 6** • Class 3: Paper as an Interface on the world, Paper Gadgets (Kelli)
+## Wednesday, Feb. 6 • Class 3: Paper as an Interface on the world, Paper Gadgets
+
+Kelli
 
 When tech is made physical it becomes radically accessible. In this class, we will discuss a multitude of wants that paper can make difficult abstractions tangible and help us observe the delicate physical forces of the world around us.
 
 
-## **Thursday, Feb. 7** • Class 4: The Fundamentals of Pop-ups I (Simon)
+## Thursday, Feb. 7 • Class 4: The Fundamentals of Pop-ups I
 
-In this hands-on workshop, students will learn the essential structures of paper engineering and pop-ups by creating their own textbooks. They will then apply what they have learned towards designing and building their own pop-ups.  During this section, students will be familiarized with the tools and techniques used in the field by building examples of mechanisms for themselves while gaining a basic understanding of pop-up book design.
+Simon
 
-
-## **Friday, Feb. 8** • Class 5: The Fundamentals of Pop-ups II (Simon) The History of paper and computers (Pam)
-
-In the second section of pop-up fundamentals, we will explore combinations of the different mechanisms learned at the start of the course. Pam will discuss the history of paper tape, punchcards, and paper computers.
+In this hands-on workshop, students will learn the essential structures of paper engineering and pop-ups by creating their own textbooks. They will then apply what they have learned towards designing and building their own pop-ups.  During this section, students will be familiarized with the tools and techniques used in the field by building examples of mechanisms for themselves while gaining a basic understanding of pop-up book design. 
 
 
-## **Monday, Feb. 11** • Class 6: Origami Design 2: tessellations, rigid folding, software (Robby)
+## Friday, Feb. 8 • Class 5: The Fundamentals of Pop-ups II (Simon) The History of paper and computers
+
+Pam
+
+In the second section of pop-up fundamentals, we will explore combinations of the different mechanisms learned at the start of the course. Pam will discuss the history of looms, paper tape, punchcards, and paper computers— and will discuss them in terms of information systems and cybernetics.
+
+
+## Monday, Feb. 11 • Class 6: Origami Design 2: tessellations, rigid folding, software
+
+Robby
 
 This class will be covered in three parts. The first section is all about the hard parts of origami, beginning with the frontiers of origami: curved creases and crumpling. We'll discuss what makes this hard and and why there are unsolved problems. Discuss what *is* easily solvable leads us into origami software and we'll take a look under the hood of Rabbit Ear. Again, we'll look at some difficult problems in origami software and what makes them hard. We'll end this section with a demonstration of how to create a crease pattern in code and render it in Origami Simulator.
 
@@ -98,7 +106,11 @@ Sources:
 - [Robert Lang - Twists, Tilings, and Tessellations](https://www.amazon.com/Twists-Tilings-Tessellations-Mathematical-Geometric/dp/1568812329/)
 - [Tachi, Demaine - Origamizier Algorithm](https://pdfs.semanticscholar.org/758b/3b9cea1b8391a73ff68846011c7f480fe7a0.pdf)
 
-## **Tuesday, Feb. 12** • Class 7: Make a Functional pop-up paper camera (Kelli)
+**Homework**: If you have an iphone, download and install [this pinhole light meter app](https://itunes.apple.com/us/app/this-app-is-a-light-meter/id1449194398?mt=8)
+
+## Tuesday, Feb. 12 • Class 7: Make a Functional pop-up paper camera
+
+Kelli
 
 In this class, we will transform a flat piece of paper into a functional pinhole camera, while learning how light works. You can then use your camera with photo paper (provided) to take large-format pictures—which you can develop in instant coffee and baking soda. 
 
@@ -106,14 +118,21 @@ The classroom will temporarily be converted into a camera obscura, so we can obs
 
 **Homework**: read [SparkFun Electronics primer](https://learn.sparkfun.com/tutorials/what-is-electricity/all)
 
-## **Wednesday, Feb. 13** • Class 8: Electronics (Coralie and Pam)
+## Wednesday, Feb. 13 • Class 8: Electronics
+
+Coralie and Pam
 
 In this workshop, we will use paper electronics to rebuild common components with paper. We will first explore paper circuits, make a light turn on and off, and then make a radial potentiometer. At the end of the class, we will learn how speakers work and make a fully-functional paper speaker. How can we incorporate structure to bend, extend, or alter these projects’ functionality?
 
-## **Thursday, Feb. 14** • Class 9: Interfaces (Coralie)
+**Homework**: Create an action that will turn-on the light and create a system (volume, screen) to diffuse the light of the leds.
+
+## Thursday, Feb. 14 • Class 9: Interfaces
+
+Coralie
 
 In this class, we will rethink gestures to interact with paper interfaces and construct a paper synthesizer. We will start with reimagine what a graphic-based interface can be and what kinds of interaction does it offer? (Does it isolating notes? Will it allow for sliding sounds? Or randomness? Or for chords to be played?)  How does structure dictate how the instrument must be played?
 
+## Friday, Feb. 15 • Class 10: Silkscreened Electronics and additional workshops
 
 ---
 
