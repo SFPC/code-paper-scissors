@@ -49,6 +49,8 @@ In this introduction, Taeyoon will introduce the class, give context for SFPC’
 
 We'll spend time getting to know our fellow students, the space, the plotter, the tools, and the wall of cut/fold pattern dielines and templates. We will finish the evening with our first origami activity and an introduction to crease patterns.
 
+**Homework**: Box-pleating homework
+
 ## Tuesday, Feb. 5 • Class 2: Origami Design 1
 
 *Robby*
@@ -86,9 +88,9 @@ When tech is made physical it becomes radically accessible. In this class, we wi
 In this hands-on workshop, students will learn the essential structures of paper engineering and pop-ups by creating their own textbooks. They will then apply what they have learned towards designing and building their own pop-ups.  During this section, students will be familiarized with the tools and techniques used in the field by building examples of mechanisms for themselves while gaining a basic understanding of pop-up book design. 
 
 
-## Friday, Feb. 8 • Class 5: The Fundamentals of Pop-ups II (Simon) The History of paper and computers
+## Friday, Feb. 8 • Class 5: The Fundamentals of Pop-ups II, The History of paper and computers
 
-*Pam*
+*Simon, Pam*
 
 In the second section of pop-up fundamentals, we will explore combinations of the different mechanisms learned at the start of the course. Pam will discuss the history of looms, paper tape, punchcards, and paper computers— and will discuss them in terms of information systems and cybernetics.
 
