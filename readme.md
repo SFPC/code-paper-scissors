@@ -106,6 +106,8 @@ In the second section of pop-up fundamentals, we will explore combinations of th
 
 (bring a computer today)
 
+[syllabus](https://paper.dropbox.com/doc/Origami-Design-2--AXZMtqToho~HJXeomfTf5PDIAQ-qVSNnup3dtQ3YFUN2yumZ)
+
 This class will be covered in three parts. The first section is all about the hard parts of origami, beginning with the frontiers of origami: curved creases and crumpling. We'll discuss what makes this hard and and why there are unsolved problems. Discuss what *is* easily solvable leads us into origami software and we'll take a look under the hood of Rabbit Ear. Again, we'll look at some difficult problems in origami software and what makes them hard. We'll end this section with a demonstration of how to create a crease pattern in code and render it in Origami Simulator.
 
 The second component begins with an introduction to origami tessellations, followed by a workshop where we create our own tiling. Students will be able to prototype a design and perform their own foldability tests.
