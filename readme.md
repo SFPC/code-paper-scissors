@@ -55,6 +55,8 @@ We'll spend time getting to know our fellow students, the space, the plotter, th
 
 *Robby*
 
+(computer optional)
+
 [syllabus](https://paper.dropbox.com/doc/Origami-Design-1--AWnpyO25FCHwsHAJjaT94rbkAQ-8igCiI3wEzS3887lUpEiA)
 
 In this class we'll cover 3 approaches to origami design:
@@ -85,12 +87,15 @@ When tech is made physical it becomes radically accessible. In this class, we wi
 
 *Simon*
 
-In this hands-on workshop, students will learn the essential structures of paper engineering and pop-ups by creating their own textbooks. They will then apply what they have learned towards designing and building their own pop-ups.  During this section, students will be familiarized with the tools and techniques used in the field by building examples of mechanisms for themselves while gaining a basic understanding of pop-up book design. 
+(no computer needed)
 
+In this hands-on workshop, students will learn the essential structures of paper engineering and pop-ups by creating their own textbooks. They will then apply what they have learned towards designing and building their own pop-ups.  During this section, students will be familiarized with the tools and techniques used in the field by building examples of mechanisms for themselves while gaining a basic understanding of pop-up book design. 
 
 ## Friday, Feb. 8 • Class 5: The Fundamentals of Pop-ups II, The History of paper and computers
 
 *Simon, Pam*
+
+(no computer needed)
 
 In the second section of pop-up fundamentals, we will explore combinations of the different mechanisms learned at the start of the course. Pam will discuss the history of looms, paper tape, punchcards, and paper computers— and will discuss them in terms of information systems and cybernetics.
 
@@ -98,6 +103,10 @@ In the second section of pop-up fundamentals, we will explore combinations of th
 ## Monday, Feb. 11 • Class 6: Origami Design 2: tessellations, rigid folding, software
 
 *Robby*
+
+(bring a computer today)
+
+[syllabus](https://paper.dropbox.com/doc/Origami-Design-2--AXZMtqToho~HJXeomfTf5PDIAQ-qVSNnup3dtQ3YFUN2yumZ)
 
 This class will be covered in three parts. The first section is all about the hard parts of origami, beginning with the frontiers of origami: curved creases and crumpling. We'll discuss what makes this hard and and why there are unsolved problems. Discuss what *is* easily solvable leads us into origami software and we'll take a look under the hood of Rabbit Ear. Again, we'll look at some difficult problems in origami software and what makes them hard. We'll end this section with a demonstration of how to create a crease pattern in code and render it in Origami Simulator.
 
@@ -115,6 +124,8 @@ Sources:
 ## Tuesday, Feb. 12 • Class 7: Make a Functional pop-up paper camera
 
 *Kelli*
+
+(no computer needed)
 
 In this class, we will transform a flat piece of paper into a functional pinhole camera, while learning how light works. You can then use your camera with photo paper (provided) to take large-format pictures—which you can develop in instant coffee and baking soda. 
 
