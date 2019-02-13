@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 600 480" enable-background="new 0 0 600 480" xml:space="preserve">
+<g id="Layer_1">
+	<g id="marks">
+		<line fill="none" stroke="#000000" x1="458.2" y1="302.9" x2="400.5" y2="297.4"/>
+		<line fill="none" stroke="#000000" x1="381.6" y1="352.2" x2="400.5" y2="297.4"/>
+		<line fill="none" stroke="#000000" x1="349.1" y1="270.5" x2="400.5" y2="297.4"/>
+		<polygon fill="none" stroke="#000000" points="381.6,352.2 419.9,327.6 458.2,302.9 403.7,286.7 349.1,270.5 365.4,311.3 		"/>
+		<polygon fill="none" stroke="#000000" points="381.6,352.2 411.4,314.3 458.2,302.9 402.1,292 349.1,270.5 380.5,305.3 		"/>
+		<line fill="none" stroke="#000000" x1="273.7" y1="300.4" x2="240" y2="361.1"/>
+		<polygon fill="none" stroke="#000000" points="206.3,300.4 240,328 273.7,300.4 267.2,350.3 306.1,382.1 289.9,341.3 273.7,300.4 
+			240,300.4 		"/>
+		<polyline fill="none" stroke="#000000" points="306.1,382.1 279.3,345.5 273.7,300.4 240,312.4 206.3,300.4 		"/>
+		<line fill="none" stroke="#000000" x1="206.3" y1="185.4" x2="240" y2="116.3"/>
+		<polygon fill="none" stroke="#000000" points="273.7,185.4 240,161.5 206.3,185.4 204,136 163.7,107.5 185,146.4 206.3,185.4 
+			240,185.4 		"/>
+		<polyline fill="none" stroke="#000000" points="163.7,107.5 194,141.5 206.3,185.4 240,174.6 273.7,185.4 		"/>
+	</g>
+	<g id="mountain">
+		<polyline fill="none" stroke="#000000" stroke-width="3" points="499.8,163.1 458.2,302.9 513.4,388.7 		"/>
+		<polyline fill="none" stroke="#000000" stroke-width="3" points="260.4,438 306.1,382.1 381.6,352.2 436.8,438 		"/>
+		<polyline fill="none" stroke="#000000" stroke-width="3" points="312.4,130.7 273.7,185.4 273.7,300.4 349.1,270.5 390.7,130.7 		
+			"/>
+		<polyline fill="none" stroke="#000000" stroke-width="3" points="93.5,247.1 206.3,185.4 206.3,300.4 160.5,356.3 		"/>
+		<polyline fill="none" stroke="#000000" stroke-width="3" points="202.4,52.8 163.7,107.5 50.9,169.2 		"/>
+	</g>
+	<g id="valley">
+		
+			<line fill="none" stroke="#4379FF" stroke-width="3" stroke-linecap="round" stroke-dasharray="6,6" x1="240" y1="116.3" x2="72.2" y2="208.1"/>
+		
+			<line fill="none" stroke="#4379FF" stroke-width="3" stroke-linecap="round" stroke-dasharray="6,6" x1="240" y1="116.3" x2="257.4" y2="91.7"/>
+		
+			<line fill="none" stroke="#4379FF" stroke-width="3" stroke-linecap="round" stroke-dasharray="6,6" x1="240" y1="116.3" x2="240" y2="361.1"/>
+		
+			<line fill="none" stroke="#4379FF" stroke-width="3" stroke-linecap="round" stroke-dasharray="6,6" x1="445.2" y1="146.9" x2="400.5" y2="297.4"/>
+		
+			<line fill="none" stroke="#4379FF" stroke-width="3" stroke-linecap="round" stroke-dasharray="6,6" x1="400.5" y1="297.4" x2="240" y2="361.1"/>
+		
+			<line fill="none" stroke="#4379FF" stroke-width="3" stroke-linecap="round" stroke-dasharray="6,6" x1="400.5" y1="297.4" x2="475.1" y2="413.4"/>
+		
+			<line fill="none" stroke="#4379FF" stroke-width="3" stroke-linecap="round" stroke-dasharray="6,6" x1="240" y1="361.1" x2="210.5" y2="397.2"/>
+	</g>
+</g>
+<g id="Layer_2">
+	<polygon fill="none" stroke="#EE1032" stroke-width="3" points="202.4,52.8 257.4,91.7 312.4,130.7 390.7,130.7 445.2,146.9 
+		499.8,163.1 552,163.1 552,388.7 513.4,388.7 475.1,413.4 436.8,438 260.4,438 210.5,397.2 160.5,356.3 93.5,356.3 93.5,247.1 
+		72.2,208.1 50.9,169.2 50.9,52.8 	"/>
+	<circle fill="none" stroke="#000000" cx="176.4" cy="246.6" r="1.2"/>
+	<circle fill="none" stroke="#000000" cx="96" cy="99.6" r="1.2"/>
+	<circle fill="none" stroke="#000000" cx="303.6" cy="246.6" r="1.2"/>
+	<circle fill="none" stroke="#000000" cx="364.8" cy="400.8" r="1.2"/>
+	<circle fill="none" stroke="#000000" cx="509.4" cy="307.8" r="1.2"/>
+</g>
+</svg>
