@@ -1,6 +1,6 @@
 ---
 title: Meet the students of Code-Paper-Scissors
-subtitle: "Code-Paper-Scissors at School for Poetic Computation"
+subtitle: Code-Paper-Scissors at School for Poetic Computation
 ---
 
 # Meet the students of Code-Paper-Scissors
