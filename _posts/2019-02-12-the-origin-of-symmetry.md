@@ -1,8 +1,8 @@
 ---
 title: The Origin of Symmetry
-subtitle: Day 2, Origami design I with Robby
+subtitle: Day 2, Origami Design I with Robby
 author: Katrin Bichler
-date: 2019-02-05
+date: 2019-02-12
 ---
 
 # The Origin of Symmetry
@@ -25,8 +25,7 @@ We started out by learning basic principles of origami art – the underlying �
 
 The more I understand this, the more I like the idea of our paper squares as small universes: Possibly because it is alluring to my god-complex, hopefully just because I like designing systems. Decisions made at one corner of the paper contribute to the state of the other corner. Successes come in the forms of beautiful patterns and revelations. Suddenly, crease-lines align and trigger small ‘AHA’-orgasm in the brain. To inhabit your small paper universe is to live in a world where everything exists for a reason, and everything makes sense (a very soothing feeling if you live in a city like New York).
 
-![]({{ "assets/day2/IMG_3263.jpg" | relative_url }}){:.small-image}
-
+![]({{ "assets/day2/IMG_3263.jpg" | relative_url }}){:.diptych}
 ![]({{ "assets/day2/IMG_3267.jpg" | relative_url }}){:.small-image}
 
 According to Robby, finding these confirmation points is a sign of great origami design and the first step toward a greater understanding – and possibly to designing our own crease patterns. To be honest, right now I have no idea how this square diagram of solid and dotted lines will end up as the bug that Robby just showed us. A bug which, by the way, looks realistic enough for me to need to fight the urge to take off my shoe and squash it.

@@ -3,10 +3,20 @@
 
 @import "{{ site.theme }}";
 
-.profile-image{
+.profile-image {
 	max-width: 400px !important;
 }
 
-.small-images{
-	max-width: 400px !important;
+.small-image {
+	max-width: 500px !important;
+}
+
+.diptych {
+	float: right;
+	max-width: 45vw !important;
+	min-width: 300px !important;
+}
+
+.blog-linebreak{
+	margin-bottom: 3em !important;
 }

@@ -1,6 +1,7 @@
 ---
 title: Meet the students of Code-Paper-Scissors
-subtitle: Code-Paper-Scissors at School for Poetic Computation
+author: Robby
+date: 2019-02-06
 ---
 
 # Meet the students of Code-Paper-Scissors
