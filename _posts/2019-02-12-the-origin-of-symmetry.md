@@ -1,6 +1,6 @@
 ---
 title: The Origin of Symmetry
-subtitle: Day 2, Origami Design I with Robby
+subtitle: Day 2, Tuesday, Origami Design I with Robby
 author: Katrin Bichler
 date: 2019-02-12
 ---

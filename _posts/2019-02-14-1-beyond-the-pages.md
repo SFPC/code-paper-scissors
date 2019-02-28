@@ -1,6 +1,6 @@
 ---
 title: Beyond the Pages
-subtitle: Day 4, Pop-ups with Simon
+subtitle: Day 4, Thursday, Pop-ups with Simon
 author: Katrin Bichler
 date: 2019-02-14
 ---
